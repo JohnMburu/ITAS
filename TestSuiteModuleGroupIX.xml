@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestSuiteModuleGroupIX">
+
+<!-- if you have more test cases for this suite, add them bellow.-->
+
+<test name="LoginTestCase1">
+    <classes>
+        <class name="com.stta.TestSuiteModuleGroupIX.LoginTestCase1" ></class>  
+    </classes>
+</test>
+
+<test name="LoginTestCase2">
+    <classes>
+        <class name="com.stta.TestSuiteModuleGroupIX.LoginTestCase2" ></class>  
+    </classes>
+</test>
+
+</suite>

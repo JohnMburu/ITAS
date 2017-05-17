@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Registration Module Test Cases">
+
+<!-- if you have more test cases for this suite, add them bellow.-->
+
+<test name="Register Individual Taxpayer">
+    <classes>
+        <class name="com.stta.TestSuiteModuleGroupII.RegisterIndividualTaxpayer" ></class>  
+    </classes>
+</test>
+
+<test name="Approve Individual Taxpayer">
+    <classes>
+        <class name="com.stta.TestSuiteModuleGroupII.RegisterIndividualApprove" ></class>  
+    </classes>
+</test>
+
+</suite>
