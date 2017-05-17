@@ -1,0 +1,92 @@
+2017-05-17 15:52:02,463 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:02,479 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:02,480 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:02,480 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-05-17 15:52:02,480 - rootLogger - INFO - Execution started for Login Scenarios.
+2017-05-17 15:52:02,480 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-05-17 15:52:02,558 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:02,574 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:02,574 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:02,574 - rootLogger - INFO - ValidUserLogin : Execution started.
+2017-05-17 15:52:05,123 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-05-17 15:52:09,232 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 1 as PASS In excel.
+2017-05-17 15:52:13,302 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 2 as PASS In excel.
+2017-05-17 15:52:17,408 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 3 as PASS In excel.
+2017-05-17 15:52:21,505 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 4 as PASS In excel.
+2017-05-17 15:52:25,608 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 5 as PASS In excel.
+2017-05-17 15:52:25,952 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:25,952 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:25,952 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:25,952 - rootLogger - INFO - InvalidUserLogin : Execution started.
+2017-05-17 15:52:30,054 - rootLogger - INFO - InvalidUserLogin : Reporting test data set line 1 as PASS In excel.
+2017-05-17 15:52:30,368 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:30,369 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:30,370 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:30,370 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-05-17 15:52:30,370 - rootLogger - INFO - Execution started for Module Group II (Registration and Property Information)
+2017-05-17 15:52:30,371 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-05-17 15:52:30,403 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:30,404 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:30,404 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:30,405 - rootLogger - INFO - RegisterIndividualTaxpayer : Execution started.
+2017-05-17 15:52:30,411 - rootLogger - INFO - Attempting Register New User With the Following Data:
+2017-05-17 15:52:30,412 - rootLogger - INFO - -------------------- Taxpayer Registration Data -------------------------
+2017-05-17 15:52:30,412 - rootLogger - INFO - Category of Individual: Employee
+2017-05-17 15:52:30,412 - rootLogger - INFO - Title: MR
+2017-05-17 15:52:30,412 - rootLogger - INFO - First Name: John
+2017-05-17 15:52:30,413 - rootLogger - INFO - Middle Name: JohnTe
+2017-05-17 15:52:30,413 - rootLogger - INFO - Last Name: Mburu
+2017-05-17 15:52:30,413 - rootLogger - INFO - Estimated Date of Registration: 04/05/2017
+2017-05-17 15:52:30,413 - rootLogger - INFO - Previous Name: Mzito
+2017-05-17 15:52:30,413 - rootLogger - INFO - Gender: M
+2017-05-17 15:52:30,413 - rootLogger - INFO - Marital Status: Single
+2017-05-17 15:52:30,414 - rootLogger - INFO - DOB: 26/11/1980
+2017-05-17 15:52:30,414 - rootLogger - INFO - Estimated DOB Ind: No
+2017-05-17 15:52:30,414 - rootLogger - INFO - Previous Full Name: sultan Mzito
+2017-05-17 15:52:30,414 - rootLogger - INFO - Mothers' Maiden Name: Suzan
+2017-05-17 15:52:30,414 - rootLogger - INFO - Mothers' First Name: Mum
+2017-05-17 15:52:30,415 - rootLogger - INFO - Mothers' Middle Name: Mummy
+2017-05-17 15:52:30,415 - rootLogger - INFO - VIP: Yes
+2017-05-17 15:52:30,415 - rootLogger - INFO - Birth Village/Town: Blantyre
+2017-05-17 15:52:30,415 - rootLogger - INFO - Country of Birth: Ghana
+2017-05-17 15:52:30,415 - rootLogger - INFO - Birth Region: ASHANTI
+2017-05-17 15:52:30,416 - rootLogger - INFO - Birth District: Adansi North
+2017-05-17 15:52:30,416 - rootLogger - INFO - Nationality: Ghana
+2017-05-17 15:52:30,416 - rootLogger - INFO - Resident: Yes
+2017-05-17 15:52:30,416 - rootLogger - INFO - Importer: No
+2017-05-17 15:52:30,416 - rootLogger - INFO - Exporter: No
+2017-05-17 15:52:30,416 - rootLogger - INFO - Tax Consultant: No
+2017-05-17 15:52:30,417 - rootLogger - INFO - Address Type: Location Address
+2017-05-17 15:52:30,417 - rootLogger - INFO - Address Primary: Yes
+2017-05-17 15:52:30,417 - rootLogger - INFO - Town/City: Blantyre
+2017-05-17 15:52:30,417 - rootLogger - INFO - Region: ASHANTI
+2017-05-17 15:52:30,417 - rootLogger - INFO - District: Adansi North
+2017-05-17 15:52:30,417 - rootLogger - INFO - Identity Type: Passport
+2017-05-17 15:52:30,418 - rootLogger - INFO - Indetity No: A123456789
+2017-05-17 15:52:30,418 - rootLogger - INFO - Identity Issue: 01/01/2016
+2017-05-17 15:52:30,418 - rootLogger - INFO - Identity Expiry: 01/01/2026
+2017-05-17 15:52:30,418 - rootLogger - INFO - Attached Document: Passport
+2017-05-17 15:52:30,418 - rootLogger - INFO - Attachment URL C:\\Users\\john.mburu\\Pictures\\clouds\\IMG_2118.JPG
+2017-05-17 15:52:30,418 - rootLogger - INFO - -------------------- Registration Process Begins -------------------------
+2017-05-17 15:52:34,446 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 1 as PASS In excel.
+2017-05-17 15:52:34,463 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 2 So skipping Its execution.
+2017-05-17 15:52:34,470 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 2 as SKIP In excel.
+2017-05-17 15:52:34,485 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 3 So skipping Its execution.
+2017-05-17 15:52:34,489 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 3 as SKIP In excel.
+2017-05-17 15:52:34,497 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 4 So skipping Its execution.
+2017-05-17 15:52:34,501 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 4 as SKIP In excel.
+2017-05-17 15:52:34,511 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 5 So skipping Its execution.
+2017-05-17 15:52:34,514 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 5 as SKIP In excel.
+2017-05-17 15:52:34,520 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 6 So skipping Its execution.
+2017-05-17 15:52:34,527 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 6 as SKIP In excel.
+2017-05-17 15:52:34,530 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 7 So skipping Its execution.
+2017-05-17 15:52:34,546 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 7 as SKIP In excel.
+2017-05-17 15:52:34,569 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test case as PASS In excel.
+2017-05-17 15:52:34,609 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-05-17 15:52:34,609 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-05-17 15:52:34,610 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-05-17 15:52:34,610 - rootLogger - INFO - RegisterIndividualApprove : Execution started.
+2017-05-17 15:52:34,612 - rootLogger - INFO - Attempting Register New User With the Following Data:
+2017-05-17 15:52:34,612 - rootLogger - INFO - -------------------- Taxpayer Registration Data -------------------------
+2017-05-17 15:52:34,613 - rootLogger - INFO - -------------------- Registration Process Begins -------------------------
+2017-05-17 15:52:38,643 - rootLogger - INFO - RegisterIndividualApprove : Reporting test data set line 1 as PASS In excel.
