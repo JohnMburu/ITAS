@@ -1,92 +1,88 @@
-2017-05-17 15:52:02,463 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:02,479 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:02,480 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:02,480 - rootLogger - INFO - ------------------------------------------------------------------------------
-2017-05-17 15:52:02,480 - rootLogger - INFO - Execution started for Login Scenarios.
-2017-05-17 15:52:02,480 - rootLogger - INFO - ------------------------------------------------------------------------------
-2017-05-17 15:52:02,558 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:02,574 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:02,574 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:02,574 - rootLogger - INFO - ValidUserLogin : Execution started.
-2017-05-17 15:52:05,123 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
-2017-05-17 15:52:09,232 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 1 as PASS In excel.
-2017-05-17 15:52:13,302 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 2 as PASS In excel.
-2017-05-17 15:52:17,408 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 3 as PASS In excel.
-2017-05-17 15:52:21,505 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 4 as PASS In excel.
-2017-05-17 15:52:25,608 - rootLogger - INFO - ValidUserLogin : Reporting test data set line 5 as PASS In excel.
-2017-05-17 15:52:25,952 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:25,952 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:25,952 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:25,952 - rootLogger - INFO - InvalidUserLogin : Execution started.
-2017-05-17 15:52:30,054 - rootLogger - INFO - InvalidUserLogin : Reporting test data set line 1 as PASS In excel.
-2017-05-17 15:52:30,368 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:30,369 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:30,370 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:30,370 - rootLogger - INFO - ------------------------------------------------------------------------------
-2017-05-17 15:52:30,370 - rootLogger - INFO - Execution started for Module Group II (Registration and Property Information)
-2017-05-17 15:52:30,371 - rootLogger - INFO - ------------------------------------------------------------------------------
-2017-05-17 15:52:30,403 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:30,404 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:30,404 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:30,405 - rootLogger - INFO - RegisterIndividualTaxpayer : Execution started.
-2017-05-17 15:52:30,411 - rootLogger - INFO - Attempting Register New User With the Following Data:
-2017-05-17 15:52:30,412 - rootLogger - INFO - -------------------- Taxpayer Registration Data -------------------------
-2017-05-17 15:52:30,412 - rootLogger - INFO - Category of Individual: Employee
-2017-05-17 15:52:30,412 - rootLogger - INFO - Title: MR
-2017-05-17 15:52:30,412 - rootLogger - INFO - First Name: John
-2017-05-17 15:52:30,413 - rootLogger - INFO - Middle Name: JohnTe
-2017-05-17 15:52:30,413 - rootLogger - INFO - Last Name: Mburu
-2017-05-17 15:52:30,413 - rootLogger - INFO - Estimated Date of Registration: 04/05/2017
-2017-05-17 15:52:30,413 - rootLogger - INFO - Previous Name: Mzito
-2017-05-17 15:52:30,413 - rootLogger - INFO - Gender: M
-2017-05-17 15:52:30,413 - rootLogger - INFO - Marital Status: Single
-2017-05-17 15:52:30,414 - rootLogger - INFO - DOB: 26/11/1980
-2017-05-17 15:52:30,414 - rootLogger - INFO - Estimated DOB Ind: No
-2017-05-17 15:52:30,414 - rootLogger - INFO - Previous Full Name: sultan Mzito
-2017-05-17 15:52:30,414 - rootLogger - INFO - Mothers' Maiden Name: Suzan
-2017-05-17 15:52:30,414 - rootLogger - INFO - Mothers' First Name: Mum
-2017-05-17 15:52:30,415 - rootLogger - INFO - Mothers' Middle Name: Mummy
-2017-05-17 15:52:30,415 - rootLogger - INFO - VIP: Yes
-2017-05-17 15:52:30,415 - rootLogger - INFO - Birth Village/Town: Blantyre
-2017-05-17 15:52:30,415 - rootLogger - INFO - Country of Birth: Ghana
-2017-05-17 15:52:30,415 - rootLogger - INFO - Birth Region: ASHANTI
-2017-05-17 15:52:30,416 - rootLogger - INFO - Birth District: Adansi North
-2017-05-17 15:52:30,416 - rootLogger - INFO - Nationality: Ghana
-2017-05-17 15:52:30,416 - rootLogger - INFO - Resident: Yes
-2017-05-17 15:52:30,416 - rootLogger - INFO - Importer: No
-2017-05-17 15:52:30,416 - rootLogger - INFO - Exporter: No
-2017-05-17 15:52:30,416 - rootLogger - INFO - Tax Consultant: No
-2017-05-17 15:52:30,417 - rootLogger - INFO - Address Type: Location Address
-2017-05-17 15:52:30,417 - rootLogger - INFO - Address Primary: Yes
-2017-05-17 15:52:30,417 - rootLogger - INFO - Town/City: Blantyre
-2017-05-17 15:52:30,417 - rootLogger - INFO - Region: ASHANTI
-2017-05-17 15:52:30,417 - rootLogger - INFO - District: Adansi North
-2017-05-17 15:52:30,417 - rootLogger - INFO - Identity Type: Passport
-2017-05-17 15:52:30,418 - rootLogger - INFO - Indetity No: A123456789
-2017-05-17 15:52:30,418 - rootLogger - INFO - Identity Issue: 01/01/2016
-2017-05-17 15:52:30,418 - rootLogger - INFO - Identity Expiry: 01/01/2026
-2017-05-17 15:52:30,418 - rootLogger - INFO - Attached Document: Passport
-2017-05-17 15:52:30,418 - rootLogger - INFO - Attachment URL C:\\Users\\john.mburu\\Pictures\\clouds\\IMG_2118.JPG
-2017-05-17 15:52:30,418 - rootLogger - INFO - -------------------- Registration Process Begins -------------------------
-2017-05-17 15:52:34,446 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 1 as PASS In excel.
-2017-05-17 15:52:34,463 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 2 So skipping Its execution.
-2017-05-17 15:52:34,470 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 2 as SKIP In excel.
-2017-05-17 15:52:34,485 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 3 So skipping Its execution.
-2017-05-17 15:52:34,489 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 3 as SKIP In excel.
-2017-05-17 15:52:34,497 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 4 So skipping Its execution.
-2017-05-17 15:52:34,501 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 4 as SKIP In excel.
-2017-05-17 15:52:34,511 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 5 So skipping Its execution.
-2017-05-17 15:52:34,514 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 5 as SKIP In excel.
-2017-05-17 15:52:34,520 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 6 So skipping Its execution.
-2017-05-17 15:52:34,527 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 6 as SKIP In excel.
-2017-05-17 15:52:34,530 - rootLogger - INFO - RegisterIndividualTaxpayer : DataToRun = N for data set line 7 So skipping Its execution.
-2017-05-17 15:52:34,546 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test data set line 7 as SKIP In excel.
-2017-05-17 15:52:34,569 - rootLogger - INFO - RegisterIndividualTaxpayer : Reporting test case as PASS In excel.
-2017-05-17 15:52:34,609 - rootLogger - INFO - All Excel Files Initialised successfully.
-2017-05-17 15:52:34,609 - rootLogger - INFO - Param.properties file loaded successfully.
-2017-05-17 15:52:34,610 - rootLogger - INFO - Objects.properties file loaded successfully.
-2017-05-17 15:52:34,610 - rootLogger - INFO - RegisterIndividualApprove : Execution started.
-2017-05-17 15:52:34,612 - rootLogger - INFO - Attempting Register New User With the Following Data:
-2017-05-17 15:52:34,612 - rootLogger - INFO - -------------------- Taxpayer Registration Data -------------------------
-2017-05-17 15:52:34,613 - rootLogger - INFO - -------------------- Registration Process Begins -------------------------
-2017-05-17 15:52:38,643 - rootLogger - INFO - RegisterIndividualApprove : Reporting test data set line 1 as PASS In excel.
+2017-08-28 17:00:12,324 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-08-28 17:00:12,340 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-08-28 17:00:12,340 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-08-28 17:00:12,340 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-08-28 17:00:12,340 - rootLogger - INFO - Execution started for Login Scenarios.
+2017-08-28 17:00:12,340 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-08-28 17:00:12,340 - rootLogger - INFO - SuiteToRun = N for TestSuiteLogin So Skipping Execution.
+2017-08-28 17:00:12,731 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-08-28 17:00:12,731 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-08-28 17:00:12,731 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-08-28 17:00:12,731 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-08-28 17:00:12,731 - rootLogger - INFO - Execution started for Module Group II (Registration and Property Information)
+2017-08-28 17:00:12,731 - rootLogger - INFO - ------------------------------------------------------------------------------
+2017-08-28 17:00:12,778 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-08-28 17:00:12,778 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-08-28 17:00:12,778 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-08-28 17:00:12,778 - rootLogger - INFO - RegisterIndividualTaxpayer : Execution started.
+2017-08-28 17:00:12,778 - rootLogger - INFO - RegisterIndividualTaxpayer : CaseToRun = N for So Skipping Execution.
+2017-08-28 17:00:12,949 - rootLogger - INFO - All Excel Files Initialised successfully.
+2017-08-28 17:00:12,949 - rootLogger - INFO - Param.properties file loaded successfully.
+2017-08-28 17:00:12,949 - rootLogger - INFO - Objects.properties file loaded successfully.
+2017-08-28 17:00:12,949 - rootLogger - INFO - TaskApproval : Execution started.
+2017-08-28 17:00:12,965 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:18,639 - rootLogger - INFO - Chrome Driver Instance loaded successfully.
+2017-08-28 17:00:20,506 - rootLogger - INFO - -------------------- Data -------------------------
+2017-08-28 17:00:20,507 - rootLogger - INFO - User Name:User1BrMgr
+2017-08-28 17:00:20,507 - rootLogger - INFO - Password:Passw0rd
+2017-08-28 17:00:20,507 - rootLogger - INFO - -----------------Starting Test Case Script Execution--------------------
+2017-08-28 17:00:23,436 - rootLogger - INFO - Login to Trips+ Completed
+2017-08-28 17:00:23,436 - rootLogger - INFO - Navigating to Individual Summary Screen
+2017-08-28 17:00:25,900 - rootLogger - INFO - -----------------Task Selection -------------------
+2017-08-28 17:00:26,420 - rootLogger - INFO - TaskApproval : Reporting test data set line 1 as PASS In excel.
+2017-08-28 17:00:26,420 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,436 - rootLogger - INFO - TaskApproval : Reporting test data set line 2 as PASS In excel.
+2017-08-28 17:00:26,436 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,452 - rootLogger - INFO - TaskApproval : Reporting test data set line 3 as PASS In excel.
+2017-08-28 17:00:26,467 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,483 - rootLogger - INFO - TaskApproval : Reporting test data set line 4 as PASS In excel.
+2017-08-28 17:00:26,483 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,483 - rootLogger - INFO - TaskApproval : Reporting test data set line 5 as PASS In excel.
+2017-08-28 17:00:26,499 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,530 - rootLogger - INFO - TaskApproval : Reporting test data set line 6 as PASS In excel.
+2017-08-28 17:00:26,561 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,561 - rootLogger - INFO - TaskApproval : Reporting test data set line 7 as PASS In excel.
+2017-08-28 17:00:26,577 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,577 - rootLogger - INFO - TaskApproval : Reporting test data set line 8 as PASS In excel.
+2017-08-28 17:00:26,577 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,592 - rootLogger - INFO - TaskApproval : Reporting test data set line 9 as PASS In excel.
+2017-08-28 17:00:26,592 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,592 - rootLogger - INFO - TaskApproval : Reporting test data set line 10 as PASS In excel.
+2017-08-28 17:00:26,608 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,608 - rootLogger - INFO - TaskApproval : Reporting test data set line 11 as PASS In excel.
+2017-08-28 17:00:26,608 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,624 - rootLogger - INFO - TaskApproval : Reporting test data set line 12 as PASS In excel.
+2017-08-28 17:00:26,624 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,624 - rootLogger - INFO - TaskApproval : Reporting test data set line 13 as PASS In excel.
+2017-08-28 17:00:26,639 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,655 - rootLogger - INFO - TaskApproval : Reporting test data set line 14 as PASS In excel.
+2017-08-28 17:00:26,670 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,686 - rootLogger - INFO - TaskApproval : Reporting test data set line 15 as PASS In excel.
+2017-08-28 17:00:26,702 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,702 - rootLogger - INFO - TaskApproval : Reporting test data set line 16 as PASS In excel.
+2017-08-28 17:00:26,702 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,702 - rootLogger - INFO - TaskApproval : Reporting test data set line 17 as PASS In excel.
+2017-08-28 17:00:26,717 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,717 - rootLogger - INFO - TaskApproval : Reporting test data set line 18 as PASS In excel.
+2017-08-28 17:00:26,717 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,717 - rootLogger - INFO - TaskApproval : Reporting test data set line 19 as PASS In excel.
+2017-08-28 17:00:26,733 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,733 - rootLogger - INFO - TaskApproval : Reporting test data set line 20 as PASS In excel.
+2017-08-28 17:00:26,733 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,749 - rootLogger - INFO - TaskApproval : Reporting test data set line 21 as PASS In excel.
+2017-08-28 17:00:26,749 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,749 - rootLogger - INFO - TaskApproval : Reporting test data set line 22 as PASS In excel.
+2017-08-28 17:00:26,749 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,764 - rootLogger - INFO - TaskApproval : Reporting test data set line 23 as PASS In excel.
+2017-08-28 17:00:26,764 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,764 - rootLogger - INFO - TaskApproval : Reporting test data set line 24 as PASS In excel.
+2017-08-28 17:00:26,780 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,780 - rootLogger - INFO - TaskApproval : Reporting test data set line 25 as PASS In excel.
+2017-08-28 17:00:26,780 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,780 - rootLogger - INFO - TaskApproval : Reporting test data set line 26 as PASS In excel.
+2017-08-28 17:00:26,795 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,811 - rootLogger - INFO - TaskApproval : Reporting test data set line 27 as PASS In excel.
+2017-08-28 17:00:26,827 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,858 - rootLogger - INFO - TaskApproval : Reporting test data set line 28 as PASS In excel.
+2017-08-28 17:00:26,874 - rootLogger - INFO - -------------------- Task Approval Process Begins-------------------------
+2017-08-28 17:00:26,874 - rootLogger - INFO - TaskApproval : Reporting test data set line 29 as PASS In excel.

@@ -9,9 +9,9 @@
     </classes>
 </test>
 
-<test name="Approve Individual Taxpayer">
+<test name="Task Approval">
     <classes>
-        <class name="com.stta.TestSuiteModuleGroupII.RegisterIndividualApprove" ></class>  
+        <class name="com.stta.TestSuiteModuleGroupII.TaskApproval" ></class>  
     </classes>
 </test>
 
